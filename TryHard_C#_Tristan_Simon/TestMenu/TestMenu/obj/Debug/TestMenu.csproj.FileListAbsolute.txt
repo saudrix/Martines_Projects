@@ -5,3 +5,10 @@ C:\Users\simon\Desktop\Cours 1A\IPROG2018_AUDRIX_FILOSA\TestMenu\TestMenu\obj\De
 C:\Users\simon\Desktop\Cours 1A\IPROG2018_AUDRIX_FILOSA\TestMenu\TestMenu\obj\Debug\TestMenu.csproj.CoreCompileInputs.cache
 C:\Users\simon\Desktop\Cours 1A\IPROG2018_AUDRIX_FILOSA\TestMenu\TestMenu\obj\Debug\TestMenu.exe
 C:\Users\simon\Desktop\Cours 1A\IPROG2018_AUDRIX_FILOSA\TestMenu\TestMenu\obj\Debug\TestMenu.pdb
+C:\Users\simon\Desktop\Cours 1A\Martines_Projects\TryHard_C#_Tristan_Simon\TestMenu\TestMenu\bin\Debug\TestMenu.exe.config
+C:\Users\simon\Desktop\Cours 1A\Martines_Projects\TryHard_C#_Tristan_Simon\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\simon\Desktop\Cours 1A\Martines_Projects\TryHard_C#_Tristan_Simon\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\simon\Desktop\Cours 1A\Martines_Projects\TryHard_C#_Tristan_Simon\TestMenu\TestMenu\obj\Debug\TestMenu.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\Cours 1A\Martines_Projects\TryHard_C#_Tristan_Simon\TestMenu\TestMenu\obj\Debug\TestMenu.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Cours 1A\Martines_Projects\TryHard_C#_Tristan_Simon\TestMenu\TestMenu\obj\Debug\TestMenu.exe
+C:\Users\simon\Desktop\Cours 1A\Martines_Projects\TryHard_C#_Tristan_Simon\TestMenu\TestMenu\obj\Debug\TestMenu.pdb
